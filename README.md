@@ -30,5 +30,6 @@ Feel free to explore the repository and delve into the code and documentation of
 
 Thank you for visiting my repository and taking the time to learn about my Data Science and Machine Learning journey!
 
-Best regards,
-[Beth Mithamo]
+
+Project Author:
+[Mithamo Beth](https://github.com/Mythamor#hi-there-)
